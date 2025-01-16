@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-Persistent/",
+    "build": "vite build --base=/115_html-css_Vyacheslav-Chop/",
     "preview": "vite preview"
   },
   "devDependencies": {
